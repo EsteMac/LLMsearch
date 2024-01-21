@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/estevan.mccalley/LLMsearch/mlruns/0/7ce89dc9f6914479a02284a86b9a76f4/artifacts
+end_time: 1699029783912
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ce89dc9f6914479a02284a86b9a76f4
+run_name: bemused-foal-435
+run_uuid: 7ce89dc9f6914479a02284a86b9a76f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699029782912
+status: 4
+tags: []
+user_id: estevan.mccalley

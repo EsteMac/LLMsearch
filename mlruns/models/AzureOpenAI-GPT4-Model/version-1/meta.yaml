@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1699029783909
+current_stage: None
+description: null
+last_updated_timestamp: 1699029783909
+name: AzureOpenAI-GPT4-Model
+run_id: 7ce89dc9f6914479a02284a86b9a76f4
+run_link: null
+source: file:///Users/estevan.mccalley/LLMsearch/mlruns/0/7ce89dc9f6914479a02284a86b9a76f4/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/estevan.mccalley/LLMsearch/mlruns/0/7ce89dc9f6914479a02284a86b9a76f4/artifacts/model
+user_id: null
+version: 1
